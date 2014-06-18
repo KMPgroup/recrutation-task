@@ -1,4 +1,26 @@
-recrutation-task
-================
+# Blog - wymagania
 
-Repo contains a task for developers, aspiring to join KMP
+## Frontend
+
+* przeglądanie artykułów (lista stronicowana - will_paginate)
+* widok artykułu
+* dodawanie komentarzy do artykułu
+
+## Panel administratora (ActiveAdmin gem)
+
+* logowanie administratora
+* dodawanie i zarządzanie artykuł[[Blog - wymagania|Blog - wymagania]]ami
+* przeglądanie komentarzy do artykułów
+
+## Dodatkowo
+
+* każdy artykuł powinien posiadać nazwę, treść, tagi i kategorię. 
+* biblioteki do skorzystania:
+	* [bootstrap-sass](https://github.com/twbs/bootstrap-sass)
+	* rails 4.1
+	* [active_admin](http://activeadmin.info/)
+	* [font-awesome-rails](https://github.com/bokmann/font-awesome-rails)
+* kod wrzuć na githuba
+* nie skupiaj się na wyglądzie - przykładowy layout bloga na bootstrapie:
+	* [lista postów](http://startbootstrap.com/blog-home)
+	* [widok posta](http://startbootstrap.com/blog-post)
