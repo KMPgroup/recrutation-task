@@ -9,7 +9,7 @@
 ## Panel administratora (ActiveAdmin gem)
 
 * logowanie administratora
-* dodawanie i zarządzanie artykuł[[Blog - wymagania|Blog - wymagania]]ami
+* dodawanie i zarządzanie artykułami
 * przeglądanie komentarzy do artykułów
 
 ## Dodatkowo
