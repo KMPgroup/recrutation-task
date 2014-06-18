@@ -3,6 +3,10 @@
 ## Frontend
 
 * przeglądanie artykułów (lista stronicowana - will_paginate)
+* wyszukiwanie i filtrowanie artykułów po:
+	* tagach
+	* kategoriach
+	* tytule
 * widok artykułu
 * dodawanie komentarzy do artykułu
 
